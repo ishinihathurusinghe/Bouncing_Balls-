@@ -1,5 +1,5 @@
 
-import java.awt.*         ;
+import java.awt.*          ;
 import java.applet.*;
 import java.util.Random;
 import javax.swing.*;
